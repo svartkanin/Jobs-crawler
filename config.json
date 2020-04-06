@@ -1,0 +1,12 @@
+{
+  "search_terms": [
+    "Python developer"
+  ],
+  "country": "Sweden",
+  "location": "Stockholm",
+  "websites": [
+    "Monster",
+    "Neuvoo"
+  ],
+  "output_file": "new_jobs.txt"
+}
