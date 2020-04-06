@@ -1,0 +1,18 @@
+{
+  "Austria": "https://www.monster.at/jobs/suche",
+  "Belgium": "https://www.monster.be/en/jobs/search",
+  "Canada": "https://www.monster.ca/jobs/search",
+  "Czech Republic": "https://www.monster.cz/prace/hledat",
+  "Finland": "https://www.monster.fi",
+  "France": "https://www.monster.fr/emploi/recherche",
+  "Germany": "https://www.monster.de/jobs/suche",
+  "Ireland": "https://www.monster.ie/jobs/search",
+  "Italy": "https://www.monster.it/lavoro/cerca",
+  "Luxembourg": "https://www.monster.lu/fr/emploi/recherche",
+  "Netherlands": "https://www.monsterboard.nl/vacatures/zoeken",
+  "Spain": "https://www.monster.es/trabajo/buscar",
+  "Sweden": "https://www.monster.se/jobb/sok",
+  "Switzerland": "https://www.monster.ch/de/jobs/suche",
+  "United Kingdom": "https://www.monster.co.uk/jobs/search",
+  "United States": "https://www.monster.com/jobs/search"
+}
